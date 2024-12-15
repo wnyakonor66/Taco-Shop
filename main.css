@@ -1,0 +1,31 @@
+html {
+  font-size: 20px;
+}
+body {
+  width: 600px;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  background-color: whitesmoke;
+  margin: auto;
+  padding-left: 5px;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-left: 5px;
+}
+aside {
+  margin-left: 5px;
+}
+table,
+th,
+tr,
+td,
+caption {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 2.5px;
+}
